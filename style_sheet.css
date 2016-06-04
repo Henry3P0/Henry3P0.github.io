@@ -1,3 +1,4 @@
+body {background-color: rgb(86, 160, 255)}
 ul#menu {
     padding: 0;
 }
@@ -12,6 +13,7 @@ ul#menu li a {
     padding: 10px 20px;
     text-decoration: none;
     border-radius: 4px 4px 0 0;
+	font-size: 120%;
 }
 
 ul#menu li a:hover {
